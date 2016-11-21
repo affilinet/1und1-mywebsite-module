@@ -16,12 +16,12 @@ address_city: 80637 Munich
 
 # Main menu
 mainmenu: 
-  - title: Start
-    slug: 
-  - title: Documentation
-    slug: documentation
-  - title: Support	
-    slug: https://github.com/affilinet/1und1-mywebsite-module/issues
+  - slug: 
+    title: Start
+  - slug: documentation
+    title: Documentation
+  - slug: https://github.com/affilinet/1und1-mywebsite-module/issues
+    title: Support
 
 # Conversion
 markdown: kramdown
