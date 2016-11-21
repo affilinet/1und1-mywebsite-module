@@ -6,3 +6,5 @@ The benefits at a glance:
 * Easy integration of intelligent display ad units into your site
 * Quick and simple sign up to the affilinet platform
 * More relevancy for your readers means more earnings from your website
+
+Have a look at the modules [documentation](https://affilinet.github.io/1und1-mywebsite-module/)
